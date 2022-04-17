@@ -1,0 +1,37 @@
+------------------------------------
+Results for tracker: factor_1
+  Average overlap: 0.44
+  Total failures: 90.0
+  Average speed: 454.32 FPS
+------------------------------------
+------------------------------------
+Results for tracker: factor_1.1
+  Average overlap: 0.43
+  Total failures: 91.0
+  Average speed: 435.02 FPS
+------------------------------------
+------------------------------------
+Results for tracker: factor_1.2
+  Average overlap: 0.40
+  Total failures: 101.0
+  Average speed: 421.85 FPS
+------------------------------------
+------------------------------------
+Results for tracker: factor_1.3
+  Average overlap: 0.37
+  Total failures: 103.0
+  Average speed: 390.56 FPS
+------------------------------------
+------------------------------------
+Results for tracker: factor_1.5
+  Average overlap: 0.31
+  Total failures: 123.0
+  Average speed: 363.46 FPS
+------------------------------------
+------------------------------------
+Results for tracker: factor_2
+  Average overlap: 0.18
+  Total failures: 181.0
+  Average speed: 254.94 FPS
+------------------------------------
+The AR plot is saved to the file: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\workspace-dir\analysis\ar.png

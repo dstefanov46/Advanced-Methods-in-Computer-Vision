@@ -1,0 +1,53 @@
+---
+# These are the trackers for the tests in the first part when experimenting with sigma and alpha.
+#sigma_0.5:
+#  tracker_path: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\corr_filter.py
+#  class_name: CFTracker_1
+#
+#sigma_0.75:
+#  tracker_path: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\corr_filter.py
+#  class_name: CFTracker_2
+#
+#sigma_1:
+#  tracker_path: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\corr_filter.py
+#  class_name: CFTracker_3
+#
+#sigma_3:
+#  tracker_path: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\corr_filter.py
+#  class_name: CFTracker_4
+#
+#sigma_5:
+#  tracker_path: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\corr_filter.py
+#  class_name: CFTracker_5
+
+# These are the trackers for the tests in the second part when experimenting with the enlargement factor.
+factor_1:
+  tracker_path: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\corr_filter.py
+  class_name: CFTracker_1
+
+factor_1.1:
+  tracker_path: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\corr_filter.py
+  class_name: CFTracker_2
+
+factor_1.2:
+  tracker_path: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\corr_filter.py
+  class_name: CFTracker_3
+
+factor_1.3:
+  tracker_path: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\corr_filter.py
+  class_name: CFTracker_4
+
+factor_1.5:
+  tracker_path: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\corr_filter.py
+  class_name: CFTracker_5
+
+factor_2:
+  tracker_path: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\corr_filter.py
+  class_name: CFTracker_6
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+Performing evaluation for tracker: sigma_0.5
+------------------------------------
+Results for tracker: sigma_0.5
+  Average overlap: 0.42
+  Total failures: 89.0
+  Average speed: 245.58 FPS
+------------------------------------
+Performing evaluation for tracker: sigma_0.75
+------------------------------------
+Results for tracker: sigma_0.75
+  Average overlap: 0.44
+  Total failures: 93.0
+  Average speed: 249.04 FPS
+------------------------------------
+Performing evaluation for tracker: sigma_1
+------------------------------------
+Results for tracker: sigma_1
+  Average overlap: 0.42
+  Total failures: 81.0
+  Average speed: 244.75 FPS
+------------------------------------
+Performing evaluation for tracker: sigma_3
+------------------------------------
+Results for tracker: sigma_3
+  Average overlap: 0.43
+  Total failures: 88.0
+  Average speed: 242.42 FPS
+------------------------------------
+Performing evaluation for tracker: sigma_5
+------------------------------------
+Results for tracker: sigma_5
+  Average overlap: 0.40
+  Total failures: 102.0
+  Average speed: 198.91 FPS
+------------------------------------
+The AR plot is saved to the file: C:\Users\User\Desktop\Fakultet\2.Semester\AMCV\HW3\workspace-dir\analysis\ar.png
